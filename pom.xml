@@ -24,9 +24,9 @@
 
   <dependencies>
 	<dependency>
-	    <groupId>org.cloudfoundry</groupId>
-	    <artifactId>cloudfoundry-operations</artifactId>
-	    <version>3.11.0</version>
+	    <groupId>org.cloudfoundry.identity</groupId>
+	    <artifactId>cloudfoundry-identity-uaa</artifactId>
+	    <version>2.4.0</version>
 	</dependency>
   </dependencies>
 	
