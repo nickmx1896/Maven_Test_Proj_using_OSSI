@@ -24,9 +24,9 @@
 
   <dependencies>
 	<dependency>
-	    <groupId>org.directwebremoting</groupId>
-	    <artifactId>dwr</artifactId>
-	    <version>3.0.M1</version>
+	    <groupId>org.apache.activemq</groupId>
+	    <artifactId>activemq-client</artifactId>
+	    <version>5</version>
 	</dependency>
   </dependencies>
 	
