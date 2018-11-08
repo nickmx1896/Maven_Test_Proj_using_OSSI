@@ -24,9 +24,9 @@
 
   <dependencies>
 	<dependency>
-	    <groupId>org.apache.qpid</groupId>
-	    <artifactId>qpid-client</artifactId>
-	    <version>6.0.0</version>
+	    <groupId>org.springframework.batch</groupId>
+	    <artifactId>spring-batch-admin-manager</artifactId>
+	    <version>1.2.1.RELEASE</version>
 	</dependency>
   </dependencies>
 	
